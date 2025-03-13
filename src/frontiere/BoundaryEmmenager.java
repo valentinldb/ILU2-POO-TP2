@@ -27,7 +27,8 @@ public class BoundaryEmmenager {
 					break;
 
 				case 2:
-					//TODO a completer
+					StringBuilder message = new StringBuilder();
+					message.append("");
 					break;
 
 				default:
